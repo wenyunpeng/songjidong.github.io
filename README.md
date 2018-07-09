@@ -1,3 +1,7 @@
- 温云鹏的个人博客
-
-这是一个测试
+title: 窗外蟋蟀
+SEOTitle: 窗外蟋蟀的博客 | Keysaim Blog
+header-img: img/home-bg-hill.jpg
+email: keysaim@gmail.com
+description: "描述"
+keyword: "窗外蟋蟀, keysaim"
+url: "https://keysaim.github.io"
